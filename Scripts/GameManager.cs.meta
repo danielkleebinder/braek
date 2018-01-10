@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 81f665b9ea5c4754aa8ccebe84bf78ca
+timeCreated: 1495976531
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - livesText: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - youWon: {instanceID: 0}
+  - P1_bricksPrefab: {instanceID: 0}
+  - P2_bricksPrefab: {instanceID: 0}
+  - P1_paddle: {instanceID: 0}
+  - P2_paddle: {instanceID: 0}
+  - power: {fileID: 1710221058401028, guid: 9b3704c1fa56da74db1495f170ef9cba, type: 2}
+  - deathParticles: {instanceID: 0}
+  - P1_ball: {instanceID: 0}
+  - P2_ball: {instanceID: 0}
+  - P1_cloneBricks: {instanceID: 0}
+  - P2_cloneBricks: {instanceID: 0}
+  - BallsHolder: {instanceID: 0}
+  - P1_cloneBall: {instanceID: 0}
+  - P2_cloneBall: {instanceID: 0}
+  - PU_Turret: {fileID: 1488703879244876, guid: bc39bf83edcbb4544973b25e04ba0455,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

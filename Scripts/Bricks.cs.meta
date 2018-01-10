@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b56790fbf6b9d3f4d8757d057d9c8728
+timeCreated: 1496086191
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - brickParticle: {fileID: 1000013225566106, guid: 5a4eaffba3a4a9b438e2ddc5f0996e5e,
+      type: 2}
+  - power: {fileID: 1710221058401028, guid: 9b3704c1fa56da74db1495f170ef9cba, type: 2}
+  - destructionSound: {fileID: 1039992842654040, guid: 45690b5aabb14de4196f5a219b710eb9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

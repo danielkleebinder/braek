@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fcace935e3d15f48948870d69f56a13
+timeCreated: 1497799597
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - turretPrefab: {instanceID: 0}
+  - PickupSound: {fileID: 1343128658439894, guid: 1d107db66ee5914498834fe464716e79,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
